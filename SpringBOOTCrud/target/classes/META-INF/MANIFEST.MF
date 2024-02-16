@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: mufaro
+Build-Jdk: 17.0.8.1
+Implementation-Title: SpringBOOTCrud
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.xadmin
+Implementation-URL: https://spring.io/projects/spring-boot/SpringBOOTCru
+ d
+Created-By: Maven Integration for Eclipse
+
