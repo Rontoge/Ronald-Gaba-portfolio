@@ -1,0 +1,9 @@
+controller/BooksController.class
+service/BooksService.class
+controller/AuthorController.class
+com/ronald/SpringBootApplication/Application.class
+model/Books.class
+repository/AuthorRepository.class
+model/Author.class
+repository/BooksRepository.class
+service/AuthorService.class
